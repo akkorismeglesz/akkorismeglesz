@@ -33,6 +33,7 @@
 
 ## 🌱 I’m currently learning
 - JavaScript
+- using GitHub and the terminal in VS Code
 - Python for data science and for the university
 
 
