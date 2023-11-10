@@ -13,7 +13,7 @@
 </div>
 
 ## About me:
-- I will be a first-year student in Germany from October.
+- I am a first-year student in Germany and am studying business informatics.
 - I started to learn programming this year.
 - I like coding websites and web apps.
 
@@ -33,8 +33,8 @@
 
 ## 🌱 I’m currently learning
 - JavaScript
-- using GitHub and the terminal in VS Code
-- Python for data science and for the university
+- Java and Java and Java
+- Java for data science and for the university
 
 
 <!--- 💞️ I’m looking to collaborate on ...
