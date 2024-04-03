@@ -14,7 +14,7 @@
 
 ## About me:
 - I am a first-year student in Germany and am studying business informatics.
-- I started to learn programming this year.
+- I started to learn programming last year.
 - I like coding websites and web apps.
 
 ## 👀 I’m interested in
@@ -28,13 +28,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 
 ## 🌱 I’m currently learning
-- JavaScript
+- JavaScript and Python
 - Java and Java and Java
-- Java for data science and for the university
+- Java for the university
+- R and SQL for data management and analysis and for the university
 
 
 <!--- 💞️ I’m looking to collaborate on ...
