@@ -13,8 +13,8 @@
 </div>
 
 ## About me:
-- I am a first-year student in Germany and am studying business informatics.
-- I started to learn programming last year.
+- I am a second-year student in Germany and am studying business informatics.
+- I started to learn programming two years ago.
 - I like coding websites and web apps.
 
 ## 👀 I’m interested in
@@ -29,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="http://clipart-library.com/newhp/kissclipart-my-sql-clipart-mysql-relational-database-managemen-e9f8a283e7c4433e.jpg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
 
@@ -36,7 +38,7 @@
 - JavaScript and Python
 - Java and Java and Java
 - Java for the university
-- R and SQL for data management and analysis and for the university
+- R and SQL for data science and for the university
 
 
 <!--- 💞️ I’m looking to collaborate on ...
