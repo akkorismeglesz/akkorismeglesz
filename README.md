@@ -22,6 +22,7 @@
 - data science
 - learning languages, not just programming languages
 - pyrography
+- hiking
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -35,10 +36,8 @@
 
 
 ## 🌱 I’m currently learning
-- JavaScript and Python
-- Java and Java and Java
-- Java for the university
-- R and SQL for data science and for the university
+- JavaScript and PHP
+- Python and SQL for data science and for the university
 
 
 <!--- 💞️ I’m looking to collaborate on ...
