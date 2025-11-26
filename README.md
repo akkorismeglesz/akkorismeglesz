@@ -13,7 +13,7 @@
 </div>
 
 ## About me:
-- I am a second-year student in Germany and am studying business informatics.
+- I am a third-year student in Germany and am studying business informatics.
 - I started to learn programming two years ago.
 - I like coding websites and web apps.
 
@@ -21,6 +21,7 @@
 - web programming
 - data science
 - learning languages, not just programming languages
+- reading books
 - pyrography
 - hiking
 
@@ -36,8 +37,7 @@
 
 
 ## 🌱 I’m currently learning
-- JavaScript and PHP
-- Python and SQL for data science and for the university
+- Python and SQL for backend programming
 
 
 <!--- 💞️ I’m looking to collaborate on ...
