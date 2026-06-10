@@ -14,7 +14,8 @@
 
 ## About me:
 - I am a third-year student in Germany and am studying business informatics.
-- I started to learn programming two years ago.
+- I am a working student and work as a web developer
+- I started to learn programming 3 years ago.
 - I like coding websites and web apps.
 
 ## 👀 I’m interested in
@@ -24,6 +25,7 @@
 - reading books
 - pyrography
 - hiking
+- hackathons
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -36,14 +38,9 @@
 </div>
 
 
-## 🌱 I’m currently learning
-- Python and SQL for backend programming
+<!-- ## 🌱 I’m currently learning
+- Python and SQL for backend programming -->
 
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-
-<!---
-akkorismeglesz/akkorismeglesz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
